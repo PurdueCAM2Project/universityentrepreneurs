@@ -73,3 +73,9 @@ $ make latexpdf
 copy .gitignore
 
 
+git add
+
+git commit
+
+git push
+
