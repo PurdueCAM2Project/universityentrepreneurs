@@ -75,6 +75,9 @@ copy .gitignore
 
 git add
 
+(remember to include .travis.yml)
+
+
 git commit
 
 git push
