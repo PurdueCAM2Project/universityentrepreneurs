@@ -10,6 +10,10 @@ Welcome to University Entrepreneurs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   preface
+   contents
+   authors
+	     
 
 
 Indices and tables
