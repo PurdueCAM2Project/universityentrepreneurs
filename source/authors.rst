@@ -25,7 +25,7 @@ Authors
        the Engineering Dean's Fellow in Entrepreneurship coordinating
        the entrepreneurship programs on Purdue campus. He obtained the
        Ph.D. degree in Electrical Engineering from Stanford
-       Universit.
+       University
 
    * - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
      - George K. Thiruvathukal is a professor in Computer Science at

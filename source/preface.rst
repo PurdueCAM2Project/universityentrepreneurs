@@ -33,13 +33,14 @@ We write this book for many reasons:
   book telling readers that "Yes, you can do it.". Instead, this book
   wants to give readers complete views about the pros and cons of
   being entreprenurs. Some people say, "Everyone should be
-  entreprenurs.". This is as valid as saying "Everyone should be run
+  entreprenur.". This is as invalid as saying "Everyone should be run
   marathon." or "Everyone should play piano." or "Everyone should eat
   spicy food."  or "Everyone should drive a sport car."
 
-  As educators, one of our responsibilities is to help students find
-  their career paths and passions (these two things are often, but not
-  always, related)
+  We do not think "everyone should be an entreprenur or an engineer or
+  a musician or a dancer or an athelete."  We want to help readers
+  find their career paths and passions (these two things are often,
+  but not always, related).
 
 We make no money from this book. Everyone can read the book online. In
 fact, we even publish the source text (including the formatting marks)
