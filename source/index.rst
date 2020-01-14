@@ -11,6 +11,9 @@ Welcome to University Entrepreneurs's documentation!
    :caption: Contents:
 
    preface
+   whatis
+   money
+   university
    contents
    authors
 	     
