@@ -15,7 +15,7 @@ We write this book for many reasons:
   *Great athelets may not be great coaches.* and vice versa. Some
   people are so good at what they do, they cannot understand why
   others cannot accomplish the same thing. Many people have similar
-  experience: "This teach seems brilliant. However, I cannot
+  experience: "This teacher seems brilliant. However, I cannot
   understand the materials."  Some teachers have similar questions,
   "This topic is so easy. How can it be possible that some students do
   not understand?"
@@ -67,7 +67,7 @@ We write this book for many reasons:
 
 
 Common Misunderstanding About Entrepreneurship
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------
   
 We want to write this book because there is a lot of misunderstanding
 about entrepreneurship.  In our experience, when this word is brought
@@ -111,15 +111,15 @@ several of the above?
 For a short moment, can you completely forget the word
 entrepreneurship and answer the following questions?
 
-* Should a university encourage students to discover the needs of
-  other people and create solutions to meet the needs?
+* Should a university encourage the discovery of people's needs and
+  create solutions?
 
-* Should a university encourage students to explore different career
+* Should a university encourage the exploration of different career
   opportunities?
 
-* Should a university encourage students to learn how to communicate?
+* Should a university encourage better communication among diverse people?
 
-* Should a university encourage students to learn how to work in teams?
+* Should a university encourage teamwork?
 
 These are the reasons why universities have entrepreneurship programs.
 These are the reasons we write this book: **help readers understand
@@ -143,7 +143,7 @@ the weather, the neighbors, and many more.
 
 When you talk about entrepreneurship, why do you think about *only*
 money?  Entrepreneurship means much more than money. It means solving
-problems for people. It means understand their needs. Entrepreneurship
+problems for people. It means understanding their needs. Entrepreneurship
 means teamwork, management, communication, production, distribution
 channels, brand recognition, and many more.
 
@@ -154,13 +154,12 @@ else, please put down this book. This book is not for you.
 Who Should Read This Book?
 --------------------------
 
-We do not expect that this book will be available at airport
-bookstores for recreational reading on planes. Instead, This book is
-written for specific audience: university students, professors, and
-administrators (department chairs, deans, presidents).  Many topics
-are related to the environments in universities. If you have no close
-relationship with any university for any reason, you will probably
-find this book irrelevant to you.
+This book is written for specific audience: university students,
+professors, administrators (department chairs, deans, presidents), as
+well as anyone that wants to connect entrepreneurship with education.
+Many topics are related to the environments in universities. If you
+have no close relationship with any university for any reason, you
+will probably find this book irrelevant to you.
 
 .. note::
 
@@ -171,7 +170,7 @@ find this book irrelevant to you.
 One important aspect of entrepreneurship is to understand customers:
 who are they and what they need. Another common mistake of beginning
 entrepreneurs is the attempt to target too many customers and as a
-result without any product attractive to any specific group of
+result without anything attractive to any specific group of
 customers.  Imagine that a music concert includes classic, jazz,
 country, and rock.  It is likely that this concert appeals to nobody.
    
@@ -188,13 +187,15 @@ This book has parts:
   and what is it not? Why is entrepreneurs the right career paths for
   some people, but not others?
 
-* Entrepreneurship and universities:
+* Entrepreneurship and universities.
 
-* Suggestions for Students and Professors:
+* Suggestions for Students.
 
-* Suggestions for Professors:
+* Suggestions for Professors.
 
-* Suggestions for Administrators:  
+* Suggestions for Alumni.  
+
+* Suggestions for Administrators.
   
 
 Open-Source Book
